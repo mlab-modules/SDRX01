@@ -11,11 +11,11 @@ images:
 - doc/src/img/signal2.jpg
 - SDRX01B_Bottom_Small.JPG
 - SDRX01B_Top_Small.JPG
-- doc/src/img/SDRX01B_Bottom_Big.JPG
 - doc/src/img/SDRX01B_Top_Big.JPG
-- doc/src/img/basic_system.png
-- doc/src/img/SDR-widget.png
+- doc/src/img/SDRX01B_Bottom_Big.JPG
 - doc/src/img/SDRX01B_QRcode.png
+- doc/src/img/SDR-widget.png
+- doc/src/img/basic_system.png
 - doc/src/img/radioasronomy_configuration.png
 - hw/fzp/SDRX01B.svg
 issues: 2
