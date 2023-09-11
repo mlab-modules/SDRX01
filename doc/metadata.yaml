@@ -9,14 +9,14 @@ homepage: false
 image: doc/src/img/signal2.jpg
 images:
 - doc/src/img/signal2.jpg
-- SDRX01B_Bottom_Small.JPG
 - SDRX01B_Top_Small.JPG
+- SDRX01B_Bottom_Small.JPG
 - doc/src/img/SDRX01B_Top_Big.JPG
 - doc/src/img/SDRX01B_Bottom_Big.JPG
 - doc/src/img/SDRX01B_QRcode.png
-- doc/src/img/SDR-widget.png
 - doc/src/img/basic_system.png
 - doc/src/img/radioasronomy_configuration.png
+- doc/src/img/SDR-widget.png
 - hw/fzp/SDRX01B.svg
 issues: 2
 mark: 50
@@ -28,4 +28,4 @@ tags:
 - mlab
 - mlab-module
 title: SDRX01
-updated: '2023-07-21T03:38:26.025841+00:00'
+updated: '2023-09-11T01:00:37.543073+00:00'
