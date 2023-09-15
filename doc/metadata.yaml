@@ -6,7 +6,7 @@ github_branches:
 github_repo: SDRX01
 github_url: https://github.com/mlab-modules/SDRX01
 homepage: false
-image: doc/src/img/signal2.jpg
+image: SDRX01B_Top_Small.JPG
 images:
 - doc/src/img/signal2.jpg
 - SDRX01B_Top_Small.JPG
