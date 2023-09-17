@@ -3,6 +3,7 @@ github_branch: SDRX01B
 github_branches:
 - SDRX01A
 - SDRX01B
+github_description: 'Direct conversion IQ output SDR receiver. '
 github_repo: SDRX01
 github_url: https://github.com/mlab-modules/SDRX01
 homepage: false
@@ -29,4 +30,4 @@ tags:
 - mlab
 - mlab-module
 title: SDRX01
-updated: '2023-09-15T17:26:49.276892+00:00'
+updated: '2023-09-17T11:30:45.256133+00:00'
